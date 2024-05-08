@@ -1,33 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sangram Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangram03&label=Profile%20views&color=0e75b6&style=flat" alt="sangram03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangram03" alt="sangram03" /></a> </p>
-
-- 🔭 I’m currently working on **Web development**
-
-- 🌱 I’m currently learning **Javascript**
-
-- 👯 I’m looking to collaborate on **Web projects**
-
-- 🤝 I’m looking for help with **Backend development**
-
-- 👨‍💻 All of my projects are available at [https://sangram03.github.io/my-portfilio/](https://sangram03.github.io/my-portfilio/)
-
-- 💬 Ask me about **Html ,Css, Python**
-
-- 📫 How to reach me **sangramraju143@gmail.com**
-
-- ⚡ Fun fact **I have a deep appreciation for design and user experience.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sangram das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangram das" height="30" width="40" /></a>
-<a href="https://fb.com/sangram das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sangram das" height="30" width="40" /></a>
-<a href="https://instagram.com/sangramdas_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sangramdas_1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sangram_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sangram_0" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sangramr1qur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sangramr1qur" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
