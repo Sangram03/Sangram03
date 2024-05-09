@@ -34,7 +34,8 @@
 <div style="display: flex; flex-direction: row; gap: 5px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangram03&theme=react&hide_border=false" alt="GitHub Streak" style="margin-right: 10px;">
     <img height="196x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangram03&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api?username=sangram03&theme=dark&hide_border=true&include_all_commits=false&count_private=false"><br/>
 </div>
-![](https://github-readme-stats.vercel.app/api?username=sangram03&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sangram03&theme=discord&no-frame=false&no-bg=true&margin-w=4
+<img scr="https://github-profile-trophy.vercel.app/?username=sangram03&theme=discord&no-frame=false&no-bg=true&margin-w=4">
