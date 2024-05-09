@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sangram Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangram03" alt="sangram03" /></a> </p>
 
 - 🔭 I’m currently working on **Web development**
 
@@ -36,4 +35,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangram03&theme=react&hide_border=false" alt="GitHub Streak" style="margin-right: 10px;">
     <img height="196x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangram03&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs">
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangram03&show_icons=true&locale=en" alt="sangram03" /></p>
+![](https://github-readme-stats.vercel.app/api?username=sangram03&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sangram03&theme=discord&no-frame=false&no-bg=true&margin-w=4
