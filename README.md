@@ -38,4 +38,4 @@
 </div>
 
 ## 🏆 GitHub Trophies
-<a href="https://github-profile-trophy.vercel.app/?username=sangram03&theme=discord&no-frame=false&no-bg=true&margin-w=4"></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangram03&theme=dark" alt="sangram03&theme=dark" /></a> </p>
