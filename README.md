@@ -47,7 +47,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangram03&label=Profile%20views&color=0e75b6&style=flat" alt="sangram03" /> </p>
-##Graph📈
+## 📈 Graph :
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangram03&theme=react-dark">
 
 
