@@ -45,12 +45,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangram03&theme=dracula"></a> </p>
 ---
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangram03&label=Profile%20views&color=0e75b6&style=flat" alt="sangram03" /> </p>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangram03&theme=react-dark">
 
 
 
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangram03&label=Profile%20views&color=0e75b6&style=flat" alt="sangram03" /> </p>
