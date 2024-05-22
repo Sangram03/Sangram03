@@ -34,7 +34,7 @@
 
 <div style="display: flex; flex-direction: row; gap: 5px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangram03&theme=react&hide_border=false" alt="GitHub Streak" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangram03&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangram03&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" style="margin-right: 10px;">
 <img alt="Aviral's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sangram03&show_icons=true&count_private=true&theme=tokyonight" />
 <img src="https://github-contributor-stats.vercel.app/api?username=sangram03&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
 </div>
