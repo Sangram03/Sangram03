@@ -51,4 +51,10 @@
 
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangram03&label=Profile%20views&color=0e75b6&style=flat" alt="sangram03" /> </p>
+<div align=center>
+  <h3><b>📍Repository Visitor Count</b></h3>
+</div>
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />  
+</p>
