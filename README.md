@@ -56,5 +56,5 @@
 </div>
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />  
+  <img src="https://profile-counter.glitch.me/sangram03/count.svg" />  
 </p>
