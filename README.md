@@ -52,7 +52,7 @@
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 <div align=center>
-  <h3><b>📍Repository Visitor Count</b></h3>
+  <h3><b>📍Visitor Count</b></h3>
 </div>
 
 <p align="center" >   
