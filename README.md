@@ -19,9 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://twitter.com/@sangram87661527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sangram87661527" height="30" width="40" />
+
 <p align="left">
 <a href="https://linkedin.com/in/sangram das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangram das" height="30" width="40" /></a>
+<a href="https://twitter.com/@sangram87661527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sangram87661527" height="30" width="40" /></a>
 <a href="https://fb.com/sangram das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sangram das" height="30" width="40" /></a>
 <a href="https://instagram.com/sangramdas_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sangramdas_1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sangram_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sangram_0" height="30" width="40" /></a>
