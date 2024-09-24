@@ -42,7 +42,7 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=sangram03&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
 </div>
 
-
+[![An image of @sangram03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sangram03)](https://holopin.io/@sangram03)
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangram03&theme=dracula"></a> </p>
