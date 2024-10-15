@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **JAVA**
 
 - 👯 I’m looking to collaborate on **Web projects**
 
