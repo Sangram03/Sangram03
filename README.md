@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NVDe3rXbuDH4rs-vO-YJRJzIVelIK3yS/view?usp=drive_link]
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NVDe3rXbuDH4rs-vO-YJRJzIVelIK3yS/view?usp=drive_link)
 
 - 👯 I’m looking to collaborate on **Web projects**
 
