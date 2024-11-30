@@ -66,6 +66,14 @@
   <h3><b>📍Visitor Count</b></h3>
 </div>
 
+
+<!--Line-->
+<a href="https://github.com/Sangram03/GeeksforGeeks-POTD" style="text-decoration: none;">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
+</a>
+
+
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/sangram03/count.svg" />  
 </p>
+
