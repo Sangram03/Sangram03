@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand+SC&size=48&duration=2000&pause=300&color=Brown&width=650&height=100&lines=Hi%2C+this+is+Sangram+Das.;Follow+me+%E2%9D%A4%EF%B8%8F">
 <!--Line-->
-<a href="https://github.com/Hunterdii/GeeksforGeeks-POTD" style="text-decoration: none;">
+<a href="https://github.com/Sangram03/GeeksforGeeks-POTD" style="text-decoration: none;">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 </a>
 
