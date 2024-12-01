@@ -50,10 +50,8 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangram03&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" style="margin-right: 10px;">
 </div>
 
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangram03&theme=dracula"></a> </p>
----
-## 📈** Graph**
+
+# 📈 Graph:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangram03&theme=react-dark">
 
 
