@@ -1,20 +1,18 @@
 
 # 💫 About Me :
-<br>
-
-**🔭 I’m currently working on :**
+**🔭 I’m currently working on :**<br>
  DSA
 
-**👯 I’m looking to collaborate on :**
+**👯 I’m looking to collaborate on :**<br>
 Web projects
 
-**💬 Ask me about :**
+**💬 Ask me about :**<br>
 JavaScript,java,Node.js and any software development question.
 
-**📫 How to reach me :**
+**📫 How to reach me :**<br>
 sangramraju143@gmail.com
 
-** ⚡ Fun fact **
+** ⚡ Fun fact **<br>
  I have a deep appreciation for design and user experience.
 
 <h3 align="left"> 🌐Socials:</h3>
