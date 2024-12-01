@@ -1,17 +1,21 @@
 
 # 💫 About Me :
 <br>
-🔭 I’m currently working on **DSA**
 
-📄 Know about my experiences [𝐑𝐄𝐒𝐔𝐌𝐄](https://drive.google.com/file/d/1NVDe3rXbuDH4rs-vO-YJRJzIVelIK3yS/view?usp=drive_link)
+**🔭 I’m currently working on :**
+ DSA
 
-👯 I’m looking to collaborate on **Web projects**
+**👯 I’m looking to collaborate on :**
+Web projects
 
-💬 Ask me about **JavaScript,java,Node.js and any software development question.**
+**💬 Ask me about :**
+JavaScript,java,Node.js and any software development question.
 
-📫 How to reach me **sangramraju143@gmail.com**
+**📫 How to reach me :**
+sangramraju143@gmail.com
 
- ⚡ Fun fact **I have a deep appreciation for design and user experience.**
+** ⚡ Fun fact **
+ I have a deep appreciation for design and user experience.
 
 <h3 align="left"> 🌐Socials:</h3>
 <br>
