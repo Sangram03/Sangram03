@@ -23,7 +23,7 @@ sangramraju143@gmail.com
 <a href="https://fb.com/sangram das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sangram das" height="30" width="40" /></a>
 <a href="https://instagram.com/sangramdas_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sangramdas_1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sangram_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sangram_0" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sangramr1qur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sangramr1qur" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/sangram_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sangramr1qur" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools : </h2>
