@@ -12,7 +12,7 @@ JavaScript,java,Node.js and any software development question.
 **📫 How to reach me :**<br>
 sangramraju143@gmail.com
 
-** ⚡ Fun fact **<br>
+**⚡ Fun fact :** <br>
  I have a deep appreciation for design and user experience.
 
 #  🌐Socials:
@@ -26,7 +26,7 @@ sangramraju143@gmail.com
 <a href="https://auth.geeksforgeeks.org/user/sangramr1qur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sangramr1qur" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools : ⚒️</h2>
 <br/>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git," />
@@ -53,13 +53,13 @@ sangramraju143@gmail.com
 
 
 <div align="center">
-<h2>🐍 My Contributions 🐍</h2>
+<h2>🐍 My Contributions : 🐍</h2>
 <br>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
 <br/><br/><br/>
 </div>
-  <h3 align ="center"><b>📍Visitor Count</b></h3>
+  <h3 align ="center"><b>📍Visitor Count :</b></h3>
 </div>
 
 
