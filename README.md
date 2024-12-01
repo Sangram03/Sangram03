@@ -1,31 +1,25 @@
-<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand+SC&size=48&duration=2000&pause=300&color=Brown&width=650&height=100&lines=Hi%2C+this+is+Sangram+Das.;Follow+me+%E2%9D%A4%EF%B8%8F">
+
 <!--Line-->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 
 
 
-<h1 align="center">Hi 👋, I'm Sangram Das </h1>
-<h3 align="center">A passionate Developer from India</h3>
+# 💫 About Me :
 
+🔭 I’m currently working on **DSA**
 
-- 🔭 I’m currently working on **DSA**
+📄 Know about my experiences [𝐑𝐄𝐒𝐔𝐌𝐄](https://drive.google.com/file/d/1NVDe3rXbuDH4rs-vO-YJRJzIVelIK3yS/view?usp=drive_link)
 
-- 🌱 I’m currently learning **JAVA**
+👯 I’m looking to collaborate on **Web projects**
 
-- 📄 Know about my experiences [𝐑𝐄𝐒𝐔𝐌𝐄](https://drive.google.com/file/d/1NVDe3rXbuDH4rs-vO-YJRJzIVelIK3yS/view?usp=drive_link)
+💬 Ask me about **JavaScript,java , Any Software Development Question**
 
-- 👯 I’m looking to collaborate on **Web projects**
+📫 How to reach me **sangramraju143@gmail.com**
 
-- 🤝 I’m looking for help with **Backend development**
+ ⚡ Fun fact **I have a deep appreciation for design and user experience.**
 
-- 💬 Ask me about **Html ,Css,java, Python,C**
-
-- 📫 How to reach me **sangramraju143@gmail.com**
-
-- ⚡ Fun fact **I have a deep appreciation for design and user experience.**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🌐Socials:</h3>
 
 
 <p align="left">
@@ -37,9 +31,9 @@
 <a href="https://auth.geeksforgeeks.org/user/sangramr1qur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sangramr1qur" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git," />
 <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,mysql" /><br>
 </div>
@@ -48,25 +42,20 @@
 
 
 <div style="display: flex; flex-direction: row; gap: 5px;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sangram03&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangram03&theme=react&hide_border=false" alt="GitHub Streak" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangram03&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" style="margin-right: 10px;">
+   
 <img alt="Aviral's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sangram03&show_icons=true&count_private=true&theme=tokyonight" />
-<img src="https://github-contributor-stats.vercel.app/api?username=sangram03&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
-</div>
 
-[![An image of @sangram03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sangram03)](https://holopin.io/@sangram03)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangram03&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" style="margin-right: 10px;">
+</div>
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangram03&theme=dracula"></a> </p>
 ---
-
+## 📈** Graph**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangram03&theme=react-dark">
 
-
-
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-<div align=center>
 
 <div align="center">
 <h2>🐍 My Contributions 🐍</h2>
