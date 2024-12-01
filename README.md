@@ -1,13 +1,6 @@
 
-<!--Line-->
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
-
-
-
 # 💫 About Me :
 <br>
-
 🔭 I’m currently working on **DSA**
 
 📄 Know about my experiences [𝐑𝐄𝐒𝐔𝐌𝐄](https://drive.google.com/file/d/1NVDe3rXbuDH4rs-vO-YJRJzIVelIK3yS/view?usp=drive_link)
