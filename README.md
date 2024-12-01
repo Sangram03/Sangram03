@@ -26,7 +26,7 @@ sangramraju143@gmail.com
 <a href="https://auth.geeksforgeeks.org/user/sangramr1qur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sangramr1qur" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools : ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools : </h2>
 <br/>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git," />
