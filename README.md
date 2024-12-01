@@ -59,9 +59,13 @@ sangramraju143@gmail.com
 
 <br/><br/><br/>
 </div>
-  <h3><b>📍Visitor Count</b></h3>
+  <h3 align ="center"><b>📍Visitor Count</b></h3>
 </div>
 
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/sangram03/count.svg" />  
+</p>
 
 <!--Line-->
 
@@ -69,7 +73,5 @@ sangramraju143@gmail.com
 
 
 
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/sangram03/count.svg" />  
-</p>
+
 
