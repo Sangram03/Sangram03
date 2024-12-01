@@ -14,7 +14,7 @@
 
 👯 I’m looking to collaborate on **Web projects**
 
-💬 Ask me about **JavaScript,java , Any Software Development Question**
+💬 Ask me about **JavaScript,java,Node.js and any software development question.**
 
 📫 How to reach me **sangramraju143@gmail.com**
 
@@ -48,7 +48,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangram03&theme=react&hide_border=false" alt="GitHub Streak" style="margin-right: 10px;"><br>
 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangram03&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" style="margin-right: 10px;"><br>
-  # Top Contributed Repo
+  # 🔝 Top Contributed Repo
 <img alt="Aviral's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sangram03&show_icons=true&count_private=true&theme=tokyonight" />
 
 
