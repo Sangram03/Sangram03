@@ -30,7 +30,7 @@ sangramraju143@gmail.com
 <br/>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,vercel" />
-<img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,mysql" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,mysql,notion" /><br>
 </div>
 
 # 📊 GitHub Stats:
