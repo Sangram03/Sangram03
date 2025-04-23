@@ -1,7 +1,7 @@
  
 # 💫 About Me :
 **🔭 I’m currently working on :**<br>
- DSA
+ MERN STACK PROJECT'S 
 
 **👯 I’m looking to collaborate on :**<br>
 Web projects
