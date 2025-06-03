@@ -4,7 +4,7 @@
  MERN STACK PROJECT'S 
 
 **👯 I’m looking to collaborate on :**<br>
-Web projects
+Web projects and Freelancing 
 
 **💬 Ask me about :**<br>
 JavaScript,java,Node.js and any software development question.
