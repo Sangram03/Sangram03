@@ -66,7 +66,7 @@ sangramraju143@gmail.com
 
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/sangram03/count.svg" />  
+  <img src="https://komarev.com/ghpvc/?username=sangram03&color=green" />  
 </p>
 
 <!--Line-->
