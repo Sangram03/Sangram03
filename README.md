@@ -1,7 +1,7 @@
  
 # 💫 About Me :
 **🔭 I’m currently working on :**<br>
- MERN STACK PROJECT'S 
+ FULL STACK PROJECT'S 
 
 **🧿 Portfolio⚡ :**<br>
 https://chill-dev-sangram03.vercel.app
