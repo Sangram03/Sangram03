@@ -45,17 +45,19 @@ sangramraju143@gmail.com
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangram03&theme=react&hide_border=false" alt="GitHub Streak" style="margin-right: 10px;"><br>
 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangram03&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" style="margin-right: 10px;"><br>
-  # 🔝 Top Contributed Repo :
-   <img src="https://github-contributor-stats.vercel.app/api?username=sangram03&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"><br>
+
 
 
 
 </div>
 
 
-# 📈 Graph:
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sangram03&theme=react-dark">
-
+<h2>📈 GitHub Activity Graph</h2>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sangram03&theme=react-dark" 
+  alt="Sangram's GitHub Activity Graph" 
+  width="100%" 
+/>
 
 <div align="center">
 <h2>🐍 My Contributions : 🐍</h2>
